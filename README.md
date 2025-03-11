@@ -2,6 +2,8 @@ This is Elsevier's new document class for typeset journal articles,
 elsarticle.cls.  It is now accepted for submitted articles, both in
 Elsevier's electronic submission system and elsewhere.
 
+[introduction](https://blog.csdn.net/qq_31347869/article/details/128161240?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169485732116800184165814%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=169485732116800184165814&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-128161240-null-null.142%5Ev94%5Einsert_down28v1&utm_term=%E7%88%B1%E6%96%AF%E7%BB%B4%E5%B0%94%E6%A8%A1%E6%9D%BF&spm=1018.2226.3001.4187)
+
 Elsevier's previous document class for typeset articles, elsart.cls,
 is now over 10 years old. It has been replaced with this newly written
 document class elsarticle.cls, which has been developed for Elsevier
